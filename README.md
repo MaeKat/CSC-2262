@@ -1,0 +1,4 @@
+# CSC-2262
+LSU CSC 2262 MATLab
+
+Dr. Brenner
